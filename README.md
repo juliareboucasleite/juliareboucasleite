@@ -8,20 +8,26 @@
 
 #
 
-<p style="text-align: justify;"> Estudante Apaixonada por Aprender 
+
 <p style="text-align: justify;"> Atualmente, estou cursando Programação de Sistemas de Informação na Escola Secundária Avelar Brotero no 11º ano. Além disso, dedico-me ao estudo de projetos em C#, o que me permite aplicar na prática os conhecimentos adquiridos.
 <p style="text-align: justify;"> Sou uma pessoa constantemente em busca de novos desafios na área de programação. Tenho uma paixão inata por aprender e por transformar esse aprendizado em soluções inovadoras que possam fazer a diferença.</p>&nbsp;
 
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=juliareboucasleite&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-eight-sand-50.vercel.app/api/top-langs/?username=juliareboucasleite&show_icons=true&theme=radical&layout=compact" />
- </div>
 
 
-
- 
+<div style="text-align: center;" align="center">
   
-  
+  <br>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=juliareboucasleite&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly" alt="GitHub stats">
+
+  <a href="https://github.com/juliareboucasleite/github-readme-stats">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=juliareboucasleite&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,css&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true" alt="Most Used Languages">
+
+
+
+  </a>
+</div>
+
+
 </a>
 </div>
 
@@ -66,14 +72,9 @@
 
 </div>&nbsp;&nbsp;
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Arial&weight=900&size=20&duration=4000&pause=800&color=D2B7FFFD&center=true&vCenter=true&width=1000&lines=Sua+presença+aqui+me+deixa+muito+feliz+!)](https://git.io/typing-svg)
 
 
-<div align="center">
-<br><p align="centre"><b>Contador de visitas</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{juliareboucasleite}/count.svg" /></p> 
-<br>
-</div> 
+
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
 
