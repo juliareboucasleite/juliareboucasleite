@@ -1,6 +1,6 @@
    <div align="center">
    <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Sans+Bold&weight=600&pause=1000&color=C82B9D&center=false&vCenter=false&repeat=true&random=false&width=435&lines=Ol%C3%A1!+Que+bom+que+voc%C3%AA+est%C3%A1+aqui!+" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Olá!+que+bom+que+você+está+aqui!+%E2%8A%B9+" alt="Typing SVG">
    </a>
 </div>
 
@@ -16,7 +16,7 @@
 
 <div align="center">
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Bemvindo+ao+meu+perfil!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
 </a>
 </div>
 
