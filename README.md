@@ -1,4 +1,4 @@
-<div align="center">
+   <div align="center">
    <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Sans+Bold&weight=600&pause=1000&color=C82B9D&center=false&vCenter=false&repeat=true&random=false&width=435&lines=Ol%C3%A1!+Que+bom+que+voc%C3%AA+est%C3%A1+aqui!+" alt="Typing SVG">
    </a>
@@ -63,13 +63,16 @@
 
 <div align="center">
 <br><p align="centre"><b>Contador de visitas</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{reboucasericka}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{juliareboucasleite}/count.svg" /></p> 
 <br>
 </div> 
   
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+
 #
+
+
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/juliareboucasleite/juliareboucasleite/output/github-contribution-grid-snake-dark.svg">
