@@ -1,6 +1,6 @@
    <div align="center">
    <a href="https://git.io/typing-svg">
-     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Bem+vindo+ao+meu+perfil!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
    </a>
 </div>
 
@@ -9,8 +9,8 @@
 #
 
 
-<p style="text-align: justify;"> Atualmente, estou cursando Programação de Sistemas de Informação na Escola Secundária Avelar Brotero no 11º ano. Além disso, dedico-me ao estudo de projetos em C#, o que me permite aplicar na prática os conhecimentos adquiridos.
-<p style="text-align: justify;"> Sou uma pessoa constantemente em busca de novos desafios na área de programação. Tenho uma paixão inata por aprender e por transformar esse aprendizado em soluções inovadoras que possam fazer a diferença.</p>&nbsp;
+<p style="text-align: justify;"> I am currently studying Information Systems Programming at Escola Secundária Avelar Brotero in the 11th year. Furthermore, I dedicate myself to studying projects in C#, which allows me to apply the knowledge acquired in practice.
+<p style="text-align: justify;"> I am a person constantly looking for new challenges in the programming area. I have an innate passion for learning and for transforming this learning into innovative solutions that can make a difference.</p>&nbsp;
 
 
 
