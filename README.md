@@ -1,36 +1,24 @@
-   <div align="center">
+<div align="center">
    <a href="https://git.io/typing-svg">
      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
    </a>
 </div>
 
-<img align="center" alt="" src="./src/header-gif.gif">
+<img align="center" alt="Header GIF" src="./src/header-gif.gif">
 
-#
+# 
 
+<p style="text-align: justify;">I am currently studying Information Systems Programming at Escola Secundária Avelar Brotero in the 11th year. Furthermore, I dedicate myself to studying projects in C#, which allows me to apply the knowledge acquired in practice.</p>
+<p style="text-align: justify;">I am a person constantly looking for new challenges in the programming area. I have an innate passion for learning and for transforming this learning into innovative solutions that can make a difference.</p>&nbsp;
 
-<p style="text-align: justify;"> I am currently studying Information Systems Programming at Escola Secundária Avelar Brotero in the 11th year. Furthermore, I dedicate myself to studying projects in C#, which allows me to apply the knowledge acquired in practice.
-<p style="text-align: justify;"> I am a person constantly looking for new challenges in the programming area. I have an innate passion for learning and for transforming this learning into innovative solutions that can make a difference.</p>&nbsp;
-
-
-
-<div style="text-align: center;" align="center"> 
-  
+<div align="center">
   <br>
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=juliareboucasleite&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=561760&icon_color=FF00F6&theme=jolly" alt="GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=juliareboucasleite&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=561760&icon_color=FF00F6&theme=jolly&include_private=true" alt="GitHub stats">
 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliareboucasleite&hide=html,css&langs_count=4&show_icons=true&title_color=FF00F6&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760">
-
- <br>
-
-
+  <a href="https://github.com/juliareboucasleite/github-readme-stats">
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliareboucasleite&hide=html,css&langs_count=4&show_icons=true&title_color=FF00F6&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&include_private=true" alt="Top Languages">
   </a>
-</div>
-
-
-</a>
+  <br>
 </div>
 
 ## My Skills
