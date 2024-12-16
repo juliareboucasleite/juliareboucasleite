@@ -8,7 +8,7 @@
 
 # 
 
-<p style="text-align: justify;">I am currently studying Information Systems Programming at Escola Secundária Avelar Brotero in the 11th year. Furthermore, I dedicate myself to studying projects in C#, which allows me to apply the knowledge acquired in practice.</p>
+<p style="text-align: justify;">I am currently studying Information Systems Programming Furthermore, I dedicate myself to studying projects in C#, which allows me to apply the knowledge acquired in practice.</p>
 <p style="text-align: justify;">I am a person constantly looking for new challenges in the programming area. I have an innate passion for learning and for transforming this learning into innovative solutions that can make a difference.</p>&nbsp;
 
 <div align="center">
