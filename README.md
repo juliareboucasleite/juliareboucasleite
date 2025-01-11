@@ -1,6 +1,6 @@
 <div align="center">
    <a href="https://git.io/typing-svg">
-     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
    </a>
 </div>
 
@@ -13,10 +13,10 @@
 
 <div align="center">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=juliareboucasleite&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=561760&icon_color=FF00F6&theme=jolly&include_private=true" alt="GitHub stats">
-
-  <a href="https://github.com/juliareboucasleite/github-readme-stats">
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliareboucasleite&hide=html,css&langs_count=4&show_icons=true&title_color=FF00F6&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&include_private=true" alt="Top Languages">
+ <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=juliareboucasleite&show_icons=true&theme=midnight-purple&hide_title=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliareboucasleite&layout=compact&theme=midnight-purple" alt="Linguagens Mais Usadas" />
+</div>
   </a>
   <br>
 </div>
@@ -59,8 +59,7 @@
 </a>
 <a href = "mailto:juliareboucasleite@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/juliarebouçasleite/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
-<a href="https://br.pinterest.com/Leeksxy/" target="_blank"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white"  target="_blank"></a> 
-<a href="https://www.tiktok.com/@leeksxy?lang=pt-BR" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"  target="_blank"></a> 
+
 
 </div>&nbsp;&nbsp;
 
@@ -68,7 +67,7 @@
 
 
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
 
 #
 
