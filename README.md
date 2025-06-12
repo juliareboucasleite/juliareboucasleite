@@ -63,3 +63,12 @@ Buscando transformar conhecimento em soluções criativas e impactantes
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
 
 <p align="center">Obrigado pela visita!</p>
+
+#
+
+<!-- Snake animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/juliareboucasleite/juliareboucasleite/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/juliareboucasleite/juliareboucasleite/output/github-contribution-grid-snake.svg">
+  <img alt="snake animation" src="https://raw.githubusercontent.com/juliareboucasleite/juliareboucasleite/output/github-contribution-grid-snake.svg">
+</picture>
