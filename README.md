@@ -4,9 +4,12 @@
    </a>
 </div>
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=juliareboucasleite&show_icons=true&theme=buefy#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliareboucasleite&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+### 📊 GitHub Stats
 
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juliareboucasleite&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliareboucasleite&layout=compact&langs_count=8&theme=radical" alt="Top Langs"/>
+</p>
 #
 
 ### ⊹₊ Seja bem-vindo(a) ao meu perfil! ₊⊹
