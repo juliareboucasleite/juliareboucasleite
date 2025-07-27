@@ -9,10 +9,8 @@
 </div>
 
 <!-- GitHub Stats com tema verde -->
-<p align="">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juliareboucasleite&show_icons=true&theme=vue&hide_title=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliareboucasleite&layout=compact&theme=vue" alt="Top Langs"/>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juliareboucasleite&show_icons=true&theme=vue&hide_title=true)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=juliareboucasleite&layout=compact&theme=vue)
 
 
 ## ⊹₊ Sobre mim ₊⊹ 
