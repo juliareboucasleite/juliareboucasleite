@@ -1,8 +1,13 @@
+<!-- Typing SVG com adaptação ao tema -->
 <div align="center">
-   <a href="https://git.io/typing-svg">
-     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&random=false&width=524&lines=Olá,+eu+sou+a+Julia+Rebouças!;Estudante+de+Programação+e+Desenvolvedora+em+formação" alt="Typing SVG">
-   </a>
+  <a href="https://git.io/typing-svg">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=000000&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+    </picture>
+  </a>
 </div>
+
 
 
 <p align="center">
@@ -11,13 +16,13 @@
 </p>
 
 
-### ⊹₊ Sobre mim ₊⊹
+## ⊹₊ Sobre mim ₊⊹
 
 Sou estudante do 12.º ano no Curso Profissional Técnico de Programação e Sistemas de Informação (conclusão em 2026).  
 Tenho paixão por desenvolvimento web, projetos com C# e soluções que conectam criatividade à tecnologia.  
 Busco minha primeira oportunidade na área para aplicar meus conhecimentos e crescer como profissional.  
 
-## ✨ Projetos em Destaque
+### ⊹₊ Projetos em Destaque
 
 - **Sistema de Agendamento**  
   Projeto académico em **C# / Windows Forms** com autenticação, registos e manipulação de dados visuais.
