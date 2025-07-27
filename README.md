@@ -1,6 +1,6 @@
 <div align="center">
    <a href="https://git.io/typing-svg">
-     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&random=false&width=524&lines=Olá,+eu+sou+a+Julia+Rebouças!;Estudante+de+Programação+e+Desenvolvedora+em+formação" alt="Typing SVG">
    </a>
 </div>
 
@@ -11,13 +11,23 @@
 </p>
 
 
-### ⊹₊ Seja bem-vindo(a) ao meu perfil! ₊⊹
+### ⊹₊ Sobre mim ₊⊹
 
-Estudante de Programação de Sistemas de Informação  
-Apaixonada por desafios, projetos em C# e desenvolvimento web  
-Buscando transformar conhecimento em soluções criativas e impactantes
+Sou estudante do 12.º ano no Curso Profissional Técnico de Programação e Sistemas de Informação (conclusão em 2026).  
+Tenho paixão por desenvolvimento web, projetos com C# e soluções que conectam criatividade à tecnologia.  
+Busco minha primeira oportunidade na área para aplicar meus conhecimentos e crescer como profissional.  
 
-#
+## ✨ Projetos em Destaque
+
+- **Sistema de Agendamento**  
+  Projeto académico em **C# / Windows Forms** com autenticação, registos e manipulação de dados visuais.
+
+- **Leeksxy Bot para Discord**  
+  Bot completo em **Python + Flask**, com comandos de moderação, economia, música e painel web hospedado.
+
+- **Website Pessoal**  
+  Estrutura em HTML/CSS com foco em visual limpo, organização de informações e responsividade.
+
 
 ## Minhas Skills
 
