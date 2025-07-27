@@ -12,7 +12,7 @@
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juliareboucasleite&show_icons=true&theme=buefy" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliareboucasleite&layout=compact&theme=buefy&hide_progress=true" alt="Top Langs"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliareboucasleite&layout=compact&theme=buefy" alt="Top Langs"/>
 </p>
 
 
