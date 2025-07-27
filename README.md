@@ -11,7 +11,7 @@
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=juliareboucasleite&layout=compact&theme=vue)
 
 
-## ⊹₊ Sobre mim ₊⊹ 
+## ⊹ Sobre mim ⊹ 
 [![Programadora](https://img.shields.io/badge/Programadora-32CD32?style=for-the-badge&logo=code&logoColor=white)]()
 [![Estudante](https://img.shields.io/badge/Estudante-228B22?style=for-the-badge&logo=book&logoColor=white)]()
 
