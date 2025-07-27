@@ -2,21 +2,23 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=000000&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=228B22&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=006400&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
     </picture>
   </a>
 </div>
 
-
-
+<!-- GitHub Stats com tema verde -->
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juliareboucasleite&show_icons=true&theme=buefy" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliareboucasleite&layout=compact&theme=buefy" alt="Top Langs"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juliareboucasleite&show_icons=true&theme=vue&hide_title=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliareboucasleite&layout=compact&theme=vue" alt="Top Langs"/>
 </p>
 
 
-## ⊹₊ Sobre mim ₊⊹
+## ⊹₊ Sobre mim ₊⊹ 
+[![Programadora](https://img.shields.io/badge/Programadora-32CD32?style=for-the-badge&logo=code&logoColor=white)]()
+[![Estudante](https://img.shields.io/badge/Estudante-228B22?style=for-the-badge&logo=book&logoColor=white)]()
+
 
 Sou estudante do 12.º ano no Curso Profissional Técnico de Programação e Sistemas de Informação (conclusão em 2026).  
 Tenho paixão por desenvolvimento web, projetos com C# e soluções que conectam criatividade à tecnologia.  
@@ -87,6 +89,7 @@ Busco minha primeira oportunidade na área para aplicar meus conhecimentos e cre
 
 #
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=228B22&height=120&section=footer"/>
+
 
 <p align="center">Obrigado pela visita!</p>
