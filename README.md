@@ -65,7 +65,6 @@ Busco minha primeira oportunidade na área para aplicar meus conhecimentos e cre
 - **Email**: [juliareboucasleite@gmail.com](mailto:juliareboucasleite@gmail.com)
 - **GitHub**: [github.com/juliareboucasleite](https://github.com/juliareboucasleite)
 - **LinkedIn**: [linkedin.com/in/juliareboucasleite](https://www.linkedin.com/in/juliareboucasleite/)
-- **Instagram**: [@_julissz_](https://www.instagram.com/_julissz_)
 
 
 #
