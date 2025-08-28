@@ -16,7 +16,7 @@
 [![Estudante](https://img.shields.io/badge/Estudante-228B22?style=for-the-badge&logo=book&logoColor=white)]()
 
 
-Sou estudante do 12.º ano no Curso Profissional Técnico de Programação e Sistemas de Informação (conclusão em 2026).  
+Sou estudante no Curso Profissional Técnico de Programação e Sistemas de Informação (conclusão em 2026).  
 Tenho paixão por desenvolvimento web, projetos com C# e soluções que conectam criatividade à tecnologia.  
 Busco minha primeira oportunidade na área para aplicar meus conhecimentos e crescer como profissional.  
 
