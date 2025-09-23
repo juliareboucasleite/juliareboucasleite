@@ -31,7 +31,7 @@ Busco minha primeira oportunidade na área para aplicar meus conhecimentos e cre
 - **Website Pessoal**  
   Estrutura em HTML/CSS com foco em visual limpo, organização de informações e responsividade.
   
-- **PromoPing - Notificações**
+- **PromoPing - Notificações**   
   Sistema de rastreamento de preços com **Node.js + MySQL**, envio de alertas via **Discord, WhatsApp e SMS (Twilio)**.
 
 
