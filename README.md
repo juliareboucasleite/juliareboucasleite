@@ -11,11 +11,9 @@
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=juliareboucasleite&layout=compact&theme=vue)
 
 
-## ⊹ Sobre mim ⊹ 
-[![Programadora](https://img.shields.io/badge/Programadora-32CD32?style=for-the-badge&logo=code&logoColor=white)]()
-[![Estudante](https://img.shields.io/badge/Estudante-228B22?style=for-the-badge&logo=book&logoColor=white)]()
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=juliareboucasleite&label=Profile%20views&color=0e75b6&style=flat" alt="juliareboucasleite" /> </p>
-
+## ⊹ Sobre mim ⊹  
+[![Programadora](https://img.shields.io/badge/Programadora-32CD32?style=for-the-badge&logo=code&logoColor=white)]() 
+[![Estudante](https://img.shields.io/badge/Estudante-228B22?style=for-the-badge&logo=book&logoColor=white)]() 
 
 Sou estudante no Curso Profissional Técnico de Programação e Sistemas de Informação (conclusão em 2026).  
 Tenho paixão por desenvolvimento web, projetos com C# e soluções que conectam criatividade à tecnologia.  
@@ -81,10 +79,18 @@ Busco minha primeira oportunidade na área para aplicar meus conhecimentos e cre
 ![](https://github-profile-trophy.vercel.app/?username=juliareboucasleite&theme=light&no-frame=false&no-bg=true&margin-w=4)
 
 ## Contato
-
-- **Email**: [juliareboucasleite@gmail.com](mailto:juliareboucasleite@gmail.com)
-- **GitHub**: [github.com/juliareboucasleite](https://github.com/juliareboucasleite)
-- **LinkedIn**: [linkedin.com/in/juliareboucasleite](https://www.linkedin.com/in/juliareboucasleite/)
+<table>
+  <tr>
+    <td>
+      - <b>Email</b>: <a href="mailto:juliareboucasleite@gmail.com">juliareboucasleite@gmail.com</a><br>
+      - <b>GitHub</b>: <a href="https://github.com/juliareboucasleite">github.com/juliareboucasleite</a><br>
+      - <b>LinkedIn</b>: <a href="https://www.linkedin.com/in/juliareboucasleite/">linkedin.com/in/juliareboucasleite</a>
+    </td>
+    <td>
+      <img src="https://widgetbite.com/stats/github-juliareboucasleite" alt="views"/>
+    </td>
+  </tr>
+</table>
 
 
 #
