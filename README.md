@@ -14,6 +14,7 @@
 ## ⊹ Sobre mim ⊹ 
 [![Programadora](https://img.shields.io/badge/Programadora-32CD32?style=for-the-badge&logo=code&logoColor=white)]()
 [![Estudante](https://img.shields.io/badge/Estudante-228B22?style=for-the-badge&logo=book&logoColor=white)]()
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=juliareboucasleite&label=Profile%20views&color=0e75b6&style=flat" alt="juliareboucasleite" /> </p>
 
 
 Sou estudante no Curso Profissional Técnico de Programação e Sistemas de Informação (conclusão em 2026).  
@@ -34,6 +35,7 @@ Busco minha primeira oportunidade na área para aplicar meus conhecimentos e cre
 - **PromoPing - Notificações**   
   Sistema de rastreamento de preços com **Node.js + MySQL**, envio de alertas via **Discord, WhatsApp e SMS (Twilio)**.
 
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 ## Minhas Skills
 
@@ -53,6 +55,10 @@ Busco minha primeira oportunidade na área para aplicar meus conhecimentos e cre
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-badge&logo=php&logoColor=white)
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=flat-square&logo=lua&logoColor=white)
+![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=Twilio&logoColor=white)
+
 
 ### Ferramentas de Trabalho:
 ![VS Code](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -62,6 +68,9 @@ Busco minha primeira oportunidade na área para aplicar meus conhecimentos e cre
 ![CodeSandbox](https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=codesandbox&logoColor=white)
 
 #
+
+## GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=juliareboucasleite&theme=default&no-frame=false&no-bg=true&margin-w=4)
 
 ## Contato
 
