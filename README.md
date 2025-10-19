@@ -8,34 +8,34 @@
 
 <!-- GitHub Stats com tema verde -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juliareboucasleite&show_icons=true&theme=vue&hide_title=true)
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=juliareboucasleite&layout=compact&theme=vue)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juliareboucasleite&layout=compact&theme=vue)
 
 
-## ⊹ Sobre mim ⊹  
-[![Programadora](https://img.shields.io/badge/Programadora-32CD32?style=for-the-badge&logo=code&logoColor=white)]() 
-[![Estudante](https://img.shields.io/badge/Estudante-228B22?style=for-the-badge&logo=book&logoColor=white)]() 
+## ⊹ About me ⊹  
+[![Programmer](https://img.shields.io/badge/Programmer-32CD32?style=for-the-badge&logo=code&logoColor=white)]() 
+[![Student](https://img.shields.io/badge/Student-228B22?style=for-the-badge&logo=book&logoColor=white)]() 
 
-Sou estudante no Curso Profissional Técnico de Programação e Sistemas de Informação (conclusão em 2026).  
-Tenho paixão por desenvolvimento web, projetos com C# e soluções que conectam criatividade à tecnologia.  
-Busco minha primeira oportunidade na área para aplicar meus conhecimentos e crescer como profissional.  
+I'm a student in the Professional Technical Course in Programming and Information Systems (graduation in 2026).  
+I have a passion for web development, C# projects and solutions that connect creativity to technology.  
+I'm looking for my first opportunity in the field to apply my knowledge and grow as a professional.  
 
-### ⊹₊ Projetos em Destaque
+### ⊹₊ Featured Projects
 
-- **Sistema de Agendamento**  
-  Projeto académico em **C# / Windows Forms** com autenticação, registos e manipulação de dados visuais.
+- **Appointment System**  
+  Academic project in **C# / Windows Forms** with authentication, records and visual data manipulation.
 
-- **Leeksxy Bot para Discord**  
-  Bot completo em **Python + Flask**, com comandos de moderação, economia, música e painel web hospedado.
+- **Leeksxy Discord Bot**  
+  Complete bot in **Python + Flask**, with moderation commands, economy, music and hosted web panel.
 
-- **Website Pessoal**  
-  Estrutura em HTML/CSS com foco em visual limpo, organização de informações e responsividade.
+- **Personal Website**  
+  HTML/CSS structure with focus on clean visual, information organization and responsiveness.
   
-- **PromoPing - Notificações**   
-  Sistema de rastreamento de preços com **Node.js + MySQL**, envio de alertas via **Discord, WhatsApp e SMS (Twilio)**.
+- **PromoPing - Notifications**   
+  Price tracking system with **Node.js + MySQL**, sending alerts via **Discord, WhatsApp and SMS (Twilio)**.
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
-## Minhas Skills
+## My Skills
 
 ### Main:
 ![C#](https://img.shields.io/badge/c%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -48,7 +48,7 @@ Busco minha primeira oportunidade na área para aplicar meus conhecimentos e cre
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Estudando no momento:
+### Currently studying:
 ![C#](https://img.shields.io/badge/c%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -62,7 +62,7 @@ Busco minha primeira oportunidade na área para aplicar meus conhecimentos e cre
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 
 
-### Ferramentas de Trabalho:
+### Work Tools:
 ![VS Code](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
@@ -78,7 +78,7 @@ Busco minha primeira oportunidade na área para aplicar meus conhecimentos e cre
 ## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=juliareboucasleite&theme=light&no-frame=false&no-bg=true&margin-w=4)
 
-## Contato
+## Contact
 <table>
   <tr>
     <td>
@@ -107,4 +107,4 @@ Busco minha primeira oportunidade na área para aplicar meus conhecimentos e cre
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=228B22&height=120&section=footer"/>
 
 
-<p align="center">Obrigado pela visita!</p>
+<p align="center">Thanks for visiting!</p>
