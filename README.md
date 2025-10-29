@@ -71,7 +71,9 @@ I'm looking for my first opportunity in the field to apply my knowledge and grow
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
-![Cursor AI](https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRoPSIxNnB4IiBoZWlnaHQ9IjE2cHgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTEyIDJjNS41MjQgMCAxMCA0LjQ3NiAxMCAxMFMxNy41MjQgMjIgMTIgMjIgMiAxNy41MjQgMiAxMiA2LjQ3NiAyIDEyIDJaIi8+PC9zdmc+)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgdmlld0JveD0iMCAwIDI0IDI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0xMiAyYTEwIDEwIDAgMSAwIDEwIDEwQTEwIDEwIDAgMCAwIDEyIDJaIiBmaWxsPSIjZGRkIi8+PHBhdGggZD0iTTUgNXYxNGwxNC0xNEw1IDV6bTAgMThMNC4yIDE5bDEuNS0xLjVMMiAxMmwzLjctNS40TDQuMiA1TDUgNHYxOHoKTTkgOWwyIDIgMy0zTDkgOXptMyA0LTItMiAzLTMgLTAgN2wtMiAyIDcgLTd6bTMgM2wtMiAyIDUgLTUgLTIgMiAyLTJ6Ii8+PC9zdmc+&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
 
 
 
