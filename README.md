@@ -91,7 +91,7 @@ I'm looking for my first opportunity in the field to apply my knowledge and grow
       - <b>LinkedIn</b>: <a href="https://www.linkedin.com/in/juliareboucasleite/">linkedin.com/in/juliareboucasleite</a>
     </td>
     <td>
-      <img src="https://widgetbite.com/stats/github-juliareboucasleite" alt="views"/>
+      <img src="https://komarev.com/ghpvc/?username=juliareboucasleite&color=green"/>
     </td>
   </tr>
 </table>
