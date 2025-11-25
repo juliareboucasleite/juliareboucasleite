@@ -1,4 +1,3 @@
-<!-- Typing SVG com adaptação ao tema -->
 <a href="https://git.io/typing-svg">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=228B22&center=false&vCenter=false&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+">
@@ -6,12 +5,9 @@
   </picture>
 </a
 
-<!-- GitHub Stats com tema verde -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juliareboucasleite&show_icons=true&theme=vue&hide_title=true)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juliareboucasleite&layout=compact&theme=vue)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=juliareboucasleite&layout=compact&theme=vue)
 
-
-## ⊹ About me ⊹  
+## About me
 [![Programmer](https://img.shields.io/badge/Programmer-32CD32?style=for-the-badge&logo=code&logoColor=white)]() 
 [![Student](https://img.shields.io/badge/Student-228B22?style=for-the-badge&logo=book&logoColor=white)]() 
 
@@ -19,21 +15,11 @@ I'm a student in the Professional Technical Course in Programming and Informatio
 I have a passion for web development, C# projects and solutions that connect creativity to technology.  
 I'm looking for my first opportunity in the field to apply my knowledge and grow as a professional.  
 
-### ⊹₊ Featured Projects
-
-- **Appointment System**  
-  Academic project in **C# / Windows Forms** with authentication, records and visual data manipulation.
-
-- **Leeksxy Discord Bot**  
-  Complete bot in **Python + Flask**, with moderation commands, economy, music and hosted web panel.
-
-- **Personal Website**  
-  HTML/CSS structure with focus on clean visual, information organization and responsiveness.
-  
-- **PromoPing - Notifications**   
-  Price tracking system with **Node.js + MySQL**, sending alerts via **Discord, WhatsApp and SMS (Twilio)**.
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+<div align="left">
+  <a href="https://open.spotify.com/user/bszsjd9zoosu8ljz50w89na4o">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=bszsjd9zoosu8ljz50w89na4o&count=1&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
 
 ## My Skills
 
@@ -74,14 +60,6 @@ I'm looking for my first opportunity in the field to apply my knowledge and grow
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgdmlld0JveD0iMCAwIDI0IDI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0xMiAyYTEwIDEwIDAgMSAwIDEwIDEwQTEwIDEwIDAgMCAwIDEyIDJaIiBmaWxsPSIjZGRkIi8+PHBhdGggZD0iTTUgNXYxNGwxNC0xNEw1IDV6bTAgMThMNC4yIDE5bDEuNS0xLjVMMiAxMmwzLjctNS40TDQuMiA1TDUgNHYxOHoKTTkgOWwyIDIgMy0zTDkgOXptMyA0LTItMiAzLTMgLTAgN2wtMiAyIDcgLTd6bTMgM2wtMiAyIDUgLTUgLTIgMiAyLTJ6Ii8+PC9zdmc+&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-
-
-
-#
-
-## GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=juliareboucasleite&theme=light&no-frame=false&no-bg=true&margin-w=4)
-
 ## Contact
 <table>
   <tr>
@@ -97,6 +75,7 @@ I'm looking for my first opportunity in the field to apply my knowledge and grow
 </table>
 
 
+
 #
 
 <!-- Snake animation -->
@@ -106,9 +85,6 @@ I'm looking for my first opportunity in the field to apply my knowledge and grow
   <img alt="snake animation" src="https://raw.githubusercontent.com/juliareboucasleite/juliareboucasleite/output/github-contribution-grid-snake.svg">
 </picture>
 
-#
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=228B22&height=120&section=footer"/>
-
-
 <p align="center">Thanks for visiting!</p>
