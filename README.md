@@ -5,7 +5,6 @@
   </picture>
 </a>
 
-
 ### About me
 [![Programmer](https://img.shields.io/badge/Programmer-32CD32?style=for-the-badge&logo=code&logoColor=white)]() 
 [![Student](https://img.shields.io/badge/Student-228B22?style=for-the-badge&logo=book&logoColor=white)]() 
@@ -57,7 +56,7 @@ I'm looking for my first opportunity in the field to apply my knowledge and grow
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgdmlld0JveD0iMCAwIDI0IDI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0xMiAyYTEwIDEwIDAgMSAwIDEwIDEwQTEwIDEwIDAgMCAwIDEyIDJaIiBmaWxsPSIjZGRkIi8+PHBhdGggZD0iTTUgNXYxNGwxNC0xNEw1IDV6bTAgMThMNC4yIDE5bDEuNS0xLjVMMiAxMmwzLjctNS40TDQuMiA1TDUgNHYxOHoKTTkgOWwyIDIgMy0zTDkgOXptMyA0LTItMiAzLTMgLTAgN2wtMiAyIDcgLTd6bTMgM2wtMiAyIDUgLTUgLTIgMiAyLTJ6Ii8+PC9zdmc+&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-## Contact
+### Contact
 <table>
   <tr>
     <td>
@@ -70,17 +69,6 @@ I'm looking for my first opportunity in the field to apply my knowledge and grow
     </td>
   </tr>
 </table>
-
-
-
-#
-
-<!-- Snake animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/juliareboucasleite/juliareboucasleite/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/juliareboucasleite/juliareboucasleite/output/github-contribution-grid-snake.svg">
-  <img alt="snake animation" src="https://raw.githubusercontent.com/juliareboucasleite/juliareboucasleite/output/github-contribution-grid-snake.svg">
-</picture>
 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=228B22&height=120&section=footer"/>
