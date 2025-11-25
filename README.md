@@ -13,12 +13,6 @@ I'm a student in the Professional Technical Course in Programming and Informatio
 I have a passion for web development, C# projects and solutions that connect creativity to technology.  
 I'm looking for my first opportunity in the field to apply my knowledge and grow as a professional.  
 
-<div align="left">
-  <a href="https://open.spotify.com/user/bszsjd9zoosu8ljz50w89na4o">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=bszsjd9zoosu8ljz50w89na4o&count=1&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
 ### Main:
 ![C#](https://img.shields.io/badge/c%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
