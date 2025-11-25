@@ -1,0 +1,16 @@
+name: 'generate-pacman-game-from-github-contribution-grid'
+description: 'Generates a Pacman game from a github user contributions grid. Output the animation as svg'
+author: 'abozanona'
+
+runs:
+    using: node20
+    main: github-action/dist/index.js
+
+inputs:
+    github_user_name:
+        description: 'github user name'
+        required: true
+    github_token:
+        description: 'github token used to fetch the contribution calendar. Default to the action token if empty.'
+        required: false
+        default: ${{ github.token }}
