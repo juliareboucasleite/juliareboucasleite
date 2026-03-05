@@ -18,6 +18,10 @@ I'm a student in the Professional Technical Course in Programming and Informatio
 I have a passion for web development, C# and JavaScript projects and solutions that connect creativity to technology.  
 I'm looking for my first opportunity in the field to apply my knowledge and grow as a professional.  
 
+### Languages
+![English](https://img.shields.io/badge/English%20A2-FF9A00?logo=English&logoColor=fff&style=for-the-badge)
+![Portuguese](https://img.shields.io/badge/Portuguese%20C3-E60012?logo=Portuguese&logoColor=fff&style=for-the-badge)
+
 ### Main:
 ![C#](https://img.shields.io/badge/c%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
