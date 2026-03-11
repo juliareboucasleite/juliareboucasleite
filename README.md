@@ -19,8 +19,9 @@ I have a passion for web development, C# and JavaScript projects and solutions t
 I'm looking for my first opportunity in the field to apply my knowledge and grow as a professional.  
 
 ### Languages
-![English](https://img.shields.io/badge/English%20A2-FF9A00?logo=English&logoColor=fff&style=for-the-badge)
+![English](https://img.shields.io/badge/English%20A2-120A28F?logo=English&logoColor=fff&style=for-the-badge)
 ![Portuguese](https://img.shields.io/badge/Portuguese%20C3-E60012?logo=Portuguese&logoColor=fff&style=for-the-badge)
+![Spanish](https://img.shields.io/badge/Spanish%20B1-D75413?logo=Spanish&logoColor=fff&style=for-the-badge)
 
 ### Main:
 ![C#](https://img.shields.io/badge/c%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
