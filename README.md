@@ -16,7 +16,6 @@
 
 I'm a student in the Professional Technical Course in Programming and Information Systems (graduation in 2026).  
 I have a passion for web development, C# and JavaScript projects and solutions that connect creativity to technology.  
-I'm looking for my first opportunity in the field to apply my knowledge and grow as a professional.  
 
 ### Languages
 ![English](https://img.shields.io/badge/English%20A2-120A28F?logo=English&logoColor=fff&style=for-the-badge)
