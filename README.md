@@ -14,9 +14,9 @@
 [![Programmer](https://img.shields.io/badge/Programmer-32CD32?style=for-the-badge&logo=code&logoColor=white)]() 
 [![Student](https://img.shields.io/badge/Student-228B22?style=for-the-badge&logo=book&logoColor=white)]() 
 
-I'm a student in the Professional Technical Course in Programming and Information Systems (graduation in 2026).  
-I have a passion for web development, C# and JavaScript projects and solutions that connect creativity to technology.  
+Hi! My name is Julia Rebouças, and I'm currently studying programming. I'm also in a vocational course and will graduate in July 2026. I have a big dream of entering a computer engineering program in September 2026 and becoming an engineer!
 
+I find this area very incredible and want to take advantage of the opportunities in the market today. I really enjoy learning new technology stacks; I don't have a specific focus, but I want to learn Java and C. In my vocational course, I learned a lot of C# and JavaScript and also did projects, which you can find in my repository!
 ### Languages
 ![English](https://img.shields.io/badge/English%20A2-120A28F?logo=English&logoColor=fff&style=for-the-badge)
 ![Portuguese](https://img.shields.io/badge/Portuguese%20C3-E60012?logo=Portuguese&logoColor=fff&style=for-the-badge)
