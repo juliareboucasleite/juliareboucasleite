@@ -14,11 +14,11 @@
 [![Programmer](https://img.shields.io/badge/Programmer-32CD32?style=for-the-badge&logo=code&logoColor=white)]() 
 [![Student](https://img.shields.io/badge/Student-228B22?style=for-the-badge&logo=book&logoColor=white)]() 
 
-Hi! My name is Julia Rebouças, and I’m currently studying programming. I’m enrolled in a vocational course and will graduate in July 2026. My goal is to pursue a degree in Computer Engineering in September 2026 and become a software engineer!
+Hello! My name is Julia Rebouças and I am currently studying programming. I am enrolled in a vocational course and will graduate in July 2026. My goal is to start a Bachelor's degree in Computer Engineering in September 2026 and become a software engineer!
 
-I’m currently working as a Web Developer Intern, where I gain hands-on experience with full-stack development, working on both front-end and back-end projects. I’m passionate about technology and enjoy exploring different areas of development. I’m still discovering which stack I want to specialize in, but I’m particularly interested in Java and C. Throughout my course, I’ve gained experience with C# and JavaScript, building several projects that you can find in my repositories. I enjoy creating practical projects, experimenting with new ideas, and continuously improving my skills.
+Currently, I work as a web development intern, where I gain practical experience with full-stack development, working on both front-end and back-end projects. I am passionate about technology and enjoy exploring different areas of development. I am still discovering which stack I want to specialize in, but I have a particular interest in Java and C. Throughout my course, I have gained experience with C# and JavaScript, developing several projects that you can find in my repositories. I like creating practical projects because they can help other people and help me in my daily work.
 
-I’m always looking for opportunities to learn, grow, and take on new challenges as a developer.
+I am always available if you want to get in touch!
 
 ### Languages
 ![English](https://img.shields.io/badge/English%20A2-120A28F?logo=English&logoColor=fff&style=for-the-badge)
