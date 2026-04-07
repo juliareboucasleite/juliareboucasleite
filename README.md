@@ -14,11 +14,12 @@
 [![Programmer](https://img.shields.io/badge/Programmer-32CD32?style=for-the-badge&logo=code&logoColor=white)]() 
 [![Student](https://img.shields.io/badge/Student-228B22?style=for-the-badge&logo=book&logoColor=white)]() 
 
-Hi! My name is Julia Rebouças, and I'm currently studying programming. I'm also in a vocational course and will graduate in July 2026. I have a big dream of entering a computer engineering college in September 2026 and becoming an engineer!
+Hi! My name is Julia Rebouças, and I’m currently studying programming. I’m enrolled in a vocational course and will graduate in July 2026. My goal is to pursue a degree in Computer Engineering in September 2026 and become a software engineer!
 
-I find this area very incredible and want to take advantage of the opportunities in the market today. I really enjoy learning new technology stacks; I don't have a focus on any specific stack, but I want to learn Java and C. In my vocational course, I learned a lot of C# and JavaScript and also did projects, which you can find in my repository!
+I’m currently working as a Web Developer Intern, where I gain hands-on experience with full-stack development, working on both front-end and back-end projects. I’m passionate about technology and enjoy exploring different areas of development. I’m still discovering which stack I want to specialize in, but I’m particularly interested in Java and C. Throughout my course, I’ve gained experience with C# and JavaScript, building several projects that you can find in my repositories. I enjoy creating practical projects, experimenting with new ideas, and continuously improving my skills.
 
-Many of my repositories are quite random; I like to explore ideas that come to mind.
+I’m always looking for opportunities to learn, grow, and take on new challenges as a developer.
+
 ### Languages
 ![English](https://img.shields.io/badge/English%20A2-120A28F?logo=English&logoColor=fff&style=for-the-badge)
 ![Portuguese](https://img.shields.io/badge/Portuguese%20C3-E60012?logo=Portuguese&logoColor=fff&style=for-the-badge)
@@ -45,7 +46,6 @@ Many of my repositories are quite random; I like to explore ideas that come to m
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Scrapy](https://img.shields.io/badge/scrapy-%2360a839.svg?style=for-the-badge&logo=scrapy&logoColor=d1d2d3)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white)
