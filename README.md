@@ -1,11 +1,5 @@
 <div align="">
-
-<a href="https://git.io/typing-svg">
-  <picture>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ff9500&random=false&width=200&height=30&lines=Hello%2F+I'm+Julia!" alt="Typing SVG" />
-      <a href="https://git.io/typing-svg">
-  </picture>
-</a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=6aa84f&width=500&lines=>juliareboucasleite%40studio%3A~%24+whoami;juliareboucasleite" />
 </div>
 
 ### About me
