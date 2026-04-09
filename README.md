@@ -72,5 +72,5 @@ I am always available if you want to get in touch!
 </table>
 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff9500&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6aa84f&height=120&section=footer"/>
 <p align="center">Thanks for visiting!</p>
