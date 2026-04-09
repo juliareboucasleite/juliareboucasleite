@@ -2,13 +2,11 @@
 
 <a href="https://git.io/typing-svg">
   <picture>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=abd200&random=false&width=400&height=40&lines=Hello%2F+I'm+Julia!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=abd200&random=false&width=200&height=30&lines=Hello%2F+I'm+Julia!" alt="Typing SVG" />
       <a href="https://git.io/typing-svg">
   </picture>
 </a>
-
 </div>
-
 
 ### About me
 [![Programmer](https://img.shields.io/badge/Programmer-32CD32?style=for-the-badge&logo=code&logoColor=white)]() 
