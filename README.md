@@ -1,4 +1,4 @@
-<div align="center">
+<div align="">
 
 <a href="https://git.io/typing-svg">
   <picture>
